@@ -19,6 +19,8 @@ You need to define at least one state, a start state, and a tape.
 
 Have a look at the example `add_one.rb` to work out how to define a machine.
 
+To run your program go `ruby your_program.rb`.
+
 ## Limitations
 
 Unfortunately real computers are memory limited, so this isn't a universial turing machine.
